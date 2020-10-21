@@ -11,6 +11,7 @@ namespace MyFirstConsoleApp
             var str = "Hello";
             str += " world";
             str = "äsd";
+            str = "asdfsdf";
             Console.WriteLine(str);
             Console.ReadKey();
         }
