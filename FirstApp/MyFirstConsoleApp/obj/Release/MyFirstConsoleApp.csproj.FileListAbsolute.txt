@@ -1,0 +1,12 @@
+D:\фильмы на андроид\MyFirstConsoleApp\MyFirstConsoleApp\bin\Release\MyFirstConsoleApp.exe.config
+D:\фильмы на андроид\MyFirstConsoleApp\MyFirstConsoleApp\bin\Release\MyFirstConsoleApp.exe
+D:\фильмы на андроид\MyFirstConsoleApp\MyFirstConsoleApp\bin\Release\MyFirstConsoleApp.pdb
+D:\фильмы на андроид\MyFirstConsoleApp\MyFirstConsoleApp\obj\Release\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\фильмы на андроид\MyFirstConsoleApp\MyFirstConsoleApp\obj\Release\MyFirstConsoleApp.exe
+D:\фильмы на андроид\MyFirstConsoleApp\MyFirstConsoleApp\obj\Release\MyFirstConsoleApp.pdb
+D:\УЧЕБА C#\MyFirstConsoleApp\MyFirstConsoleApp\bin\Release\MyFirstConsoleApp.exe.config
+D:\УЧЕБА C#\MyFirstConsoleApp\MyFirstConsoleApp\bin\Release\MyFirstConsoleApp.exe
+D:\УЧЕБА C#\MyFirstConsoleApp\MyFirstConsoleApp\bin\Release\MyFirstConsoleApp.pdb
+D:\УЧЕБА C#\MyFirstConsoleApp\MyFirstConsoleApp\obj\Release\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\УЧЕБА C#\MyFirstConsoleApp\MyFirstConsoleApp\obj\Release\MyFirstConsoleApp.exe
+D:\УЧЕБА C#\MyFirstConsoleApp\MyFirstConsoleApp\obj\Release\MyFirstConsoleApp.pdb
