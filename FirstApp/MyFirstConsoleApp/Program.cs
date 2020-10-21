@@ -10,6 +10,7 @@ namespace MyFirstConsoleApp
             Console.WriteLine(2+2);
             var str = "Hello";
             str += " world";
+            str = "äsd";
             Console.WriteLine(str);
             Console.ReadKey();
         }
